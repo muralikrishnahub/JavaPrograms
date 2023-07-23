@@ -13,7 +13,7 @@ public class CompareTwoArrays {
 
 	private static void compareArrays(int[] array1, int[] array2) {
 		boolean result = Arrays.equals(array1, array2);
-		System.out.println("Result"+result);
+		System.out.println("Result "+result);
 		
 	}
 }
